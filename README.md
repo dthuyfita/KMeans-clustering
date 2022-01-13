@@ -1,4 +1,5 @@
 Ứng dụng KMeans trong phân khúc khách hàng bán buôn
+
 Nguồn: https://archive.ics.uci.edu/ml/datasets/wholesale+customers
 
 <!---
