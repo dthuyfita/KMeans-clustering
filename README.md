@@ -1,4 +1,5 @@
-A chubby girl who is fond of puppies ☕
+Ứng dụng KMeans trong phân khúc khách hàng bán buôn
+Nguồn: https://archive.ics.uci.edu/ml/datasets/wholesale+customers
 
 <!---
 dthuyfita/dthuyfita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
